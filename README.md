@@ -5,7 +5,7 @@
 Welcome to my **Deep Learning Basics** repository! This repository is a collection of my personal notes, code snippets, and projects that I have worked on while learning the fundamentals of Deep Learning. It's intended for my use, but feel free to explore if you're interested in the basics of deep learning.
 
 ## 📚 About This Repository
-
+ 
 This repository contains various resources and exercises that I have used to understand the core concepts of Deep Learning. It includes everything from the basics of neural networks to more advanced topics like convolutional and recurrent neural networks.
 
 ## ✨ What's Inside
